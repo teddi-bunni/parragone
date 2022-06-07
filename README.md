@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parragone
-- 👀 I’m interested in PYthon, web dev, game dev
+- 👀 I’m interested in Python, web dev, game dev, software dev
 - 🌱 I’m currently learning HTML, CSS, Java
 - 💞️ I’m looking to collaborate on --
 - 📫 How to reach me violetrabbit.vi@gmail.com
